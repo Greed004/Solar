@@ -1,0 +1,7 @@
+{
+  "name": "Projeto Energia | Energia Solar Fotovoltaica",
+  "description": "Soluções em energia solar fotovoltaica para residências, empresas e negócios. Solicite seu orçamento com a Projeto Energia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
